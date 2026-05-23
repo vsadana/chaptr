@@ -64,6 +64,6 @@ This is a TikTok-style vertical video feed iOS app built with SwiftUI. It demons
 - Would need to monitor memory, bandwidth, and user engagement to tune cache and prefetching.
 
 ## Walkthrough Video
-**GITHUB**: https://github.com/vsadana/chaptr
-**INSTAGRAM**: https://www.instagram.com/reel/DYrpJ0hy9C1/?igsh=MWw3ZjBoNHJoczV2Mw==
+- **GITHUB**: https://github.com/vsadana/chaptr
+- **INSTAGRAM**: https://www.instagram.com/reel/DYrpJ0hy9C1/?igsh=MWw3ZjBoNHJoczV2Mw==
 
